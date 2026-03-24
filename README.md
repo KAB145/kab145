@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kabi — a curious mind turning ideas into code 🚀
+I'm Kabiie — a curious mind turning ideas into code 🚀
 
 - 🔭 Currently building: Backend apps and authentication systems  
 - 🌱 Learning: AI/ML, Data Structures, and scalable backend systems  
