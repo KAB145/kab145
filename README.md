@@ -1,7 +1,11 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+I'm Kabi — a curious mind turning ideas into code 🚀
+
+- 🔭 Currently building: Backend apps and authentication systems  
+- 🌱 Learning: AI/ML, Data Structures, and scalable backend systems  
+- 👯 Open to collaborate on: Open-source, AI projects, and useful web apps  
+- ⚡ Fun fact: I love solving problems and building things that actually matter  
 
 <!--
 **KAB145/kab145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
